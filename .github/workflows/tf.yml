@@ -36,3 +36,5 @@ jobs:
 
       - name: Terraform Apply
         run: terraform apply -auto-approve  # Apply Terraform changes without manual approval
+
+        #this is just a comment to check if ci/cd is working
